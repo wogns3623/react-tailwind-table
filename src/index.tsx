@@ -164,6 +164,8 @@ export default class ReactTailwindTable extends React.Component<Iprop, Istate> {
 
 		//Let the garbage collector do cleaning easier
 		state_clone = null;
+
+    this.props.onPageChange?.(page_number);
 	}
 
 
