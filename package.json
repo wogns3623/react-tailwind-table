@@ -1,6 +1,6 @@
 {
   "name": "@wogns3623/react-tailwind-table",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A Responsive Table component Made with React js and Tailwind Css. Has Pagination and search ability. Forked from mklef121/react-tailwind-table.",
   "author": "wogns3623",
   "license": "MIT",

@@ -53,7 +53,7 @@ export interface Iprop {
 	export_modify?: stringRenderFunc,
 	
 	on_bulk_action?: (selected_option: string, selected: Irow[]) => void,
-	onPageChange?: (page: number) => void,
+	on_page_change?: (page: number) => void,
 
 	styling ?: ItableStyle
 }
