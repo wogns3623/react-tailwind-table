@@ -1,6 +1,7 @@
 # react-tailwind-table
 
-> Forked from mklef121/react-tailwind-table
+> Forked from mklef121/react-tailwind-table. Added on_page_change prop that runs when the page button is pressed
+
 > A Responsive Table component Made with React Js and provides firstclass Tailwind CSS support. Perfectly works with any react application with or without Tailwind CSS. Comes with pagination, search, CSV export multi select and tons of other features.
 
 [![NPM](https://img.shields.io/npm/v/react-tailwind-table.svg)](https://www.npmjs.com/package/react-tailwind-table) 
